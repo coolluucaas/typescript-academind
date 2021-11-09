@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "coolluucaas <lucaspsanta@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "@types/typescript": "^2.0.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
